@@ -96,7 +96,8 @@ a, a:hover {
 
 .mbr-text {
   font-style: normal;
-  line-height: 1.7;
+  line-height: 1.7;  
+  margin-bottom: 0.357em;
 }
 
 h1,
@@ -109,6 +110,9 @@ h6,
 .display-2,
 .display-4,
 .display-5,
+.sz-15,
+.sz-13,
+.sz-11,
 .display-7,
 span,
 p,
